@@ -247,6 +247,7 @@ fun_fact: "I build systems that talk to the real world"
 <br/>
 
 <!-- GITHUB STATS -->
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
