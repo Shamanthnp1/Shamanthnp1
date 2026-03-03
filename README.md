@@ -47,7 +47,7 @@
 <!-- ============================= -->
 <!-- ABOUT ME SECTION              -->
 <!-- ============================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
 
 ```yaml
 name: Shamanth N P
@@ -166,7 +166,7 @@ fun_fact: "I build systems that talk to the real world 🌍⚡"
 <br/>
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
 <div align="center">
 <table>
@@ -264,7 +264,7 @@ fun_fact: "I build systems that talk to the real world 🌍⚡"
 <br/>
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> &nbsp;GitHub Stats
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shamanthnp1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=8b5cf6&text_color=94a3b8&ring_color=3b82f6" width="48%" alt="GitHub Stats" />
@@ -295,7 +295,7 @@ fun_fact: "I build systems that talk to the real world 🌍⚡"
 <br/>
 
 <!-- ACHIEVEMENTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements & Certifications
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements & Certifications
 
 <div align="center">
 
@@ -364,7 +364,7 @@ Geodata Processing Certificate
 <br/>
 
 <!-- EDUCATION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation" width="28" /> &nbsp;Education
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation" width="28" /> &nbsp;Education
 
 <div align="center">
 
@@ -447,7 +447,7 @@ SSLC
 <br/>
 
 <!-- CONNECT WITH ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> &nbsp;Connect With Me
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> &nbsp;Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/shamanthnp" target="_blank">
