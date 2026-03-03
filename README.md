@@ -1,13 +1,9 @@
-<!-- ============================= -->
-<!-- HEADER BANNER WITH WAVE       -->
-<!-- ============================= -->
+<!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHAMANTH%20N%20P&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20MCA%20Student&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" alt="Header" />
 </div>
 
-<!-- ============================= -->
-<!-- TYPING ANIMATION              -->
-<!-- ============================= -->
+<!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+IoT+Systems+%F0%9F%94%A7;Crafting+Web+Applications+%F0%9F%8C%90;Solving+Problems+with+Code+%F0%9F%92%A1;Exploring+Embedded+Systems+%F0%9F%94%8C;MCA+Student+%40+VCET+Puttur+%F0%9F%8E%93" alt="Typing SVG" />
@@ -16,16 +12,14 @@
 
 <br/>
 
-<!-- ============================= -->
-<!-- PROFILE BADGES                -->
-<!-- ============================= -->
+<!-- PROFILE BADGES -->
 <div align="center">
-  <a href="https://github.com/shamanthnp1">
-    <img src="https://komarev.com/ghpvc/?username=shamanthnp1&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Shamanthnp1">
+    <img src="https://komarev.com/ghpvc/?username=Shamanthnp1&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
   </a>
   &nbsp;
-  <a href="https://github.com/shamanthnp1?tab=followers">
-    <img src="https://img.shields.io/github/followers/shamanthnp1?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=1e293b" alt="Followers" />
+  <a href="https://github.com/Shamanthnp1?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shamanthnp1?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=1e293b" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://shamanthnp1.github.io/shamanthnadumane">
@@ -35,19 +29,15 @@
 
 <br/>
 
-<!-- ============================= -->
-<!-- DIVIDER                       -->
-<!-- ============================= -->
-<div align="center">
+<!-- DIVIDER -->
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" />
-</div>
+</p>
 
 <br/>
 
-<!-- ============================= -->
-<!-- ABOUT ME SECTION              -->
-<!-- ============================= -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+<!-- ABOUT ME -->
+## 👨‍💻 About Me
 
 ```yaml
 name: Shamanth N P
@@ -72,13 +62,13 @@ hobbies:
   - Coding & Problem Solving
   - Learning New Technologies
 
-fun_fact: "I build systems that talk to the real world 🌍⚡"
+fun_fact: "I build systems that talk to the real world"
 ```
 
 <br/>
 
 <!-- WHAT IM UP TO -->
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="120" alt="Robot" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV1Y2RiMjVtZ2t0N2k3NzRxYmF0dm5hOXQwdTQ4bHRtZm1sNm1ldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Coding" />
 
 ### 🔭 What I'm Currently Up To
 
@@ -96,15 +86,15 @@ fun_fact: "I build systems that talk to the real world 🌍⚡"
 
 <br/>
 
-<!-- DIVIDER 2 -->
-<div align="center">
+<!-- DIVIDER -->
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" />
-</div>
+</p>
 
 <br/>
 
 <!-- TECH STACK -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -145,7 +135,7 @@ fun_fact: "I build systems that talk to the real world 🌍⚡"
   <img src="https://img.shields.io/badge/Sensors-009688?style=for-the-badge&logoColor=white" alt="Sensors" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🔨 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -158,15 +148,15 @@ fun_fact: "I build systems that talk to the real world 🌍⚡"
 
 <br/>
 
-<!-- DIVIDER 3 -->
-<div align="center">
+<!-- DIVIDER -->
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" />
-</div>
+</p>
 
 <br/>
 
 <!-- FEATURED PROJECTS -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -256,205 +246,87 @@ fun_fact: "I build systems that talk to the real world 🌍⚡"
 
 <br/>
 
-<!-- DIVIDER 4 -->
-<div align="center">
+<!-- DIVIDER -->
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" />
-</div>
+</p>
 
 <br/>
 
 <!-- GITHUB STATS -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> &nbsp;GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamanthnp1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=8b5cf6&text_color=94a3b8&ring_color=3b82f6" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamanthnp1&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=8b5cf6&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=64748b" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamanthnp1&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=8b5cf6&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=64748b" width="60%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthnp1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&langs_count=8" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shamanthnp1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=8b5cf6&text_color=94a3b8&ring_color=3b82f6" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanthnp1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&langs_count=8" width="40%" alt="Languages" />
 </div>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamanthnp1&bg_color=0d1117&color=3b82f6&line=8b5cf6&point=3b82f6&area=true&area_color=8b5cf6&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shamanthnp1&bg_color=0d1117&color=3b82f6&line=8b5cf6&point=3b82f6&area=true&area_color=8b5cf6&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
 
-<!-- DIVIDER 5 -->
-<div align="center">
+<!-- DIVIDER -->
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" />
-</div>
+</p>
 
 <br/>
 
 <!-- ACHIEVEMENTS -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements & Certifications
+## 🏆 Achievements & Certifications
 
-<div align="center">
+<br/>
 
-|
- 🏅 
-|
- Achievement 
-|
- Details 
-|
-|
-:---:
-|
-:---
-|
-:---
-|
-|
- 🥈 
-|
-**
-2nd Place – Project Exhibition
-**
-|
- Solar Panel IoT Project at "Amruth Mahotsav", Govt PU College, Sullia 
-|
-|
- 📄 
-|
-**
-Research Paper – TECHNOVA 2025
-**
-|
- Presented at Department of MCA, VCET Puttur 
-|
-|
- 🌐 
-|
-**
-DRISHTI 2025
-**
-|
- Paper presented at 3rd International Conference, VCET 
-|
-|
- 📚 
-|
-**
-MOOC – Research Methodologies & IPR
-**
-|
- Successfully completed, VTU 2024 
-|
-|
- 🐍 
-|
-**
-Geodata Processing Certificate
-**
-|
- Python and Machine Learning based course 
-|
-
-</div>
+| | Achievement | Details |
+|:---:|:---|:---|
+| 🥈 | **2nd Place – Project Exhibition** | Solar Panel IoT Project at "Amruth Mahotsav", Govt PU College, Sullia |
+| 📄 | **Research Paper – TECHNOVA 2025** | Presented at Department of MCA, VCET Puttur |
+| 🌐 | **DRISHTI 2025** | Paper presented at 3rd International Conference, VCET |
+| 📚 | **MOOC – Research Methodologies & IPR** | Successfully completed, VTU 2024 |
+| 🐍 | **Geodata Processing Certificate** | Python and Machine Learning based course |
 
 <br/>
 
 <!-- EDUCATION -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation" width="28" /> &nbsp;Education
-
-<div align="center">
-
-|
- 📅 Year 
-|
- 🎓 Degree 
-|
- 📊 Score 
-|
- 🏫 Institution 
-|
-|
-:---:
-|
-:---
-|
-:---:
-|
-:---
-|
-|
- 2024 – Present 
-|
-**
-MCA
-**
- – Master of Computer Applications 
-|
- CGPA: 8.15 
-|
- VCET, Puttur 
-|
-|
- 2024 
-|
-**
-BCA
-**
- – Bachelor of Computer Applications 
-|
- 71.74% 
-|
- Vivekananda College, Puttur 
-|
-|
- 2021 
-|
-**
-PUC
-**
- – Pre-University Course 
-|
- 73.66% 
-|
- Vivekananda PU College, Puttur 
-|
-|
- 2019 
-|
-**
-SSLC
-**
- – Secondary School 
-|
- 80.00% 
-|
- Vittal Jaycees School, Vitla 
-|
-
-</div>
+## 🎓 Education
 
 <br/>
 
-<!-- DIVIDER 6 -->
-<div align="center">
+| Year | Degree | Score | Institution |
+|:---:|:---|:---:|:---|
+| 2024 – Present | **MCA** – Master of Computer Applications | CGPA: 8.15 | VCET, Puttur |
+| 2024 | **BCA** – Bachelor of Computer Applications | 71.74% | Vivekananda College, Puttur |
+| 2021 | **PUC** – Pre-University Course | 73.66% | Vivekananda PU College, Puttur |
+| 2019 | **SSLC** – Secondary School | 80.00% | Vittal Jaycees School, Vitla |
+
+<br/>
+
+<!-- DIVIDER -->
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" />
-</div>
+</p>
 
 <br/>
 
 <!-- CONNECT WITH ME -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> &nbsp;Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/shamanthnp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/shamanthnp1" target="_blank">
+  <a href="https://github.com/Shamanthnp1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
