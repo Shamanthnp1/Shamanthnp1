@@ -41,9 +41,6 @@
 
 ```yaml
 name: Shamanth N P
-located_in: Vitla, Karnataka, India
-education: MCA @ Vivekananda College of Engineering & Technology, Puttur
-current_cgpa: 8.15
 
 fields_of_interest:
   - Software Development
@@ -72,11 +69,8 @@ fun_fact: "I build systems that talk to the real world"
 
 ### 🔭 What I'm Currently Up To
 
-- 🎓 Pursuing **MCA** at VCET, Puttur (CGPA: 8.15)
 - 🔨 Working on **IoT-based Solar Panel Monitoring System**
 - 🌱 Learning **Flutter** and **Advanced Web Development**
-- 🏆 **2nd Place** winner at Project Exhibition for IoT Project
-- 📝 Published research at **TECHNOVA 2025** & **DRISHTI 2025**
 - 💬 Ask me about **Java, IoT, Arduino, Web Development**
 - 📫 Reach me at **shamanthnadumane@gmail.com**
 - 🌐 Check out my **[Portfolio](https://shamanthnp1.github.io/shamanthnadumane)**
@@ -177,7 +171,6 @@ fun_fact: "I build systems that talk to the real world"
 🔹 Uses IR and Color sensors with automated cleaning mechanism<br/>
 🔹 Remote monitoring via Blynk IoT platform<br/>
 🔹 NodeMCU ESP8266 for WiFi connectivity<br/>
-🏆 **2nd Place** in Project Exhibition
 
 </td>
 
@@ -297,20 +290,6 @@ fun_fact: "I build systems that talk to the real world"
 
 <br/>
 
-<!-- EDUCATION -->
-## 🎓 Education
-
-<br/>
-
-| Year | Degree | Score | Institution |
-|:---:|:---|:---:|:---|
-| 2024 – Present | **MCA** – Master of Computer Applications | CGPA: 8.15 | VCET, Puttur |
-| 2024 | **BCA** – Bachelor of Computer Applications | 71.74% | Vivekananda College, Puttur |
-| 2021 | **PUC** – Pre-University Course | 73.66% | Vivekananda PU College, Puttur |
-| 2019 | **SSLC** – Secondary School | 80.00% | Vittal Jaycees School, Vitla |
-
-<br/>
-
 <!-- DIVIDER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" />
@@ -377,5 +356,5 @@ fun_fact: "I build systems that talk to the real world"
   &nbsp;
   <img src="https://img.shields.io/badge/From-Karnataka%2C%20India-orange?style=for-the-badge" alt="From India" />
   <br/><br/>
-  <i>Last updated: July 2025</i>
+  <i>Last updated: Jan 2026</i>
 </div>
