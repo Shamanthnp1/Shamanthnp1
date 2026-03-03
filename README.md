@@ -247,7 +247,7 @@ fun_fact: "I build systems that talk to the real world"
 <br/>
 
 <!-- GITHUB STATS -->
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS - BACKUP VERSION -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -257,14 +257,29 @@ fun_fact: "I build systems that talk to the real world"
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamanthnp1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=8b5cf6&text_color=94a3b8&ring_color=3b82f6" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanthnp1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&langs_count=8" width="40%" alt="Languages" />
+  <a href="https://github.com/Shamanthnp1">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Shamanthnp1&cc=0d1117&tc=94a3b8&ic=3b82f6&bc=0d1117" width="48%" alt="Stats" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shamanthnp1&bg_color=0d1117&color=3b82f6&line=8b5cf6&point=3b82f6&area=true&area_color=8b5cf6&hide_border=true" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+### 🛠️ Most Used Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Embedded_C-00979D?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
 </div>
 
 <br/>
