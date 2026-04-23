@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHAMANTH%20N%20P&fontSize=50&fontColor=fff&animation=twinkling&font width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHAMANTH%20N%20P&fontSize=50&fontColor=fff&animation=twinkling" width="100%" alt="Header" />
 </div>
 
 <!-- TYPING ANIMATION -->
