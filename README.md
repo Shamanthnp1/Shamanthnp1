@@ -4,11 +4,7 @@
 </div>
 
 <!-- TYPING ANIMATION -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+IoT+Systems+%F0%9F%94%A7;Crafting+Web+Applications+%F0%9F%8C%90;Solving+Problems+with+Code+%F0%9F%92%A1;Exploring+Embedded+Systems+%F0%9F%94%8C;MCA+Student+%40+VCET+Puttur+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
-</div>
+
 
 <br/>
 
